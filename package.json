@@ -1,0 +1,16 @@
+{
+  "name": "learnnode",
+  "version": "1.0.0",
+  "description": "Learning to code in Node",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdaniel1993/LearnNode.git"
+  },
+  "author": "Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wdaniel1993/LearnNode/issues"
+  },
+  "homepage": "https://github.com/wdaniel1993/LearnNode#readme"
+}
